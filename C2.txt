@@ -1,0 +1,6 @@
+@,0,1
+q0,q1,q0
+q1,q2,q0
+q2,q2,q1
+Inicio,q0
+Final,q2
